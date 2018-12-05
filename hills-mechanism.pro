@@ -1,5 +1,5 @@
 
-pro hills-mechanism,mass,abin,vtan
+pro hills_mechanism,mass,abin,vtan
 
 ;============================================================================================================;
 ; Initial Setting
